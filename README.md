@@ -33,7 +33,9 @@ I’m a builder focused on efficient back-end logic in C and clean, interactive 
 ---
 
 ### 🔥 Activity Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh280906-hub&theme=radical)
+<img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=priyanshusingh280906-hub&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D"
+        alt="Priyanshu Singh's Github Stats" width="92%" align="center">
+
 
 ---
 
@@ -48,3 +50,4 @@ I’m a builder focused on efficient back-end logic in C and clean, interactive 
 
 ---
 *“Consistency is the bridge between goals and accomplishment.”*
+
